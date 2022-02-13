@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(90deg,#a48888, #9198e5);
+}
+
+.btn-outline-info{
+    font-size: 30px;
+}
+
+footer{
+    margin-top: 303px;
+}
+
+.main{
+    margin-top: 105px;
+}
